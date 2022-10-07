@@ -14,6 +14,9 @@ frameworks such as Bootstrap and Vuetify.
 
 - Check my portfolio website here:  [Portfolio Website](https://jezreldave.vercel.app/#/)
 
+Check my stats:
+
+![Oceaneyes123's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oceaneyes123&show_icons=true&count_private=true&theme=onedark)
 
 
 <!---
