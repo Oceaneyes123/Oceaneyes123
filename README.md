@@ -12,7 +12,7 @@ bugs and issues, refactored and optimized codes and provide
 clean and well-written codes. Fully proficient on modern design
 frameworks such as Bootstrap and Vuetify.
 
-- Check my portfolio website here:  [Portfolio Website](https://jezreldave.vercel.app/#/)
+- Check my portfolio website here:  [Portfolio Website](https://jezreldave.com)
 
 Check my stats:
 
